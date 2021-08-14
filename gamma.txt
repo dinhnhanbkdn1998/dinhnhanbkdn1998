@@ -1,2 +1,6 @@
 gamma
+<<<<<<< Updated upstream
 fix
+=======
+win2
+>>>>>>> Stashed changes
