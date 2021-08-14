@@ -1,6 +1,2 @@
 gamma
-<<<<<<< Updated upstream
-fix
-=======
-win2
->>>>>>> Stashed NOT changes
+
